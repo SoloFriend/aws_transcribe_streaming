@@ -673,7 +673,8 @@ enum LanguageCode {
   koKr('ko-KR'),
   ptBr('pt-BR'),
   thTh('th-TH'),
-  zhCn('zh-CN');
+  zhCn('zh-CN'),
+  zhHK('zh-HK');
 
   /// Creates a [LanguageCode] with the given value.
   const LanguageCode(this.value);
